@@ -13,7 +13,7 @@ The Package Management System is a command line tool designed to manage packages
 ### Content overview
 
     .
-    ├── packages_manager - package manager project
+    ├── packages_manager/ - package manager project
     ├── pkgs_installed/ - folder to store installed packages
     ├── storage/ - folder to store package archives
     ├── tests/ - contains testcases
