@@ -49,19 +49,10 @@ cd packages-manager
 
 ### Usage
 
-1. Run the script `main.cpp` with appropriate commands:
-
-```sh
-python main.py [install/uninstall/reset] [package_id]
-```
-
-2. Example usage:
-
-```sh
-python main.py install test1-1.2.0
-```
+2. Run the script `main.cpp` with appropriate commands:
 
 ## :books: Resources used to create this project
+
 
 * CPlusPlus
   * [C++ Programming Language](https://devdocs.io/cpp/)
@@ -70,6 +61,11 @@ python main.py install test1-1.2.0
   * [CMake Documentation and Community](https://cmake.org/documentation/)
 * Editor
   * [Visual Studio Community Edition](https://code.visualstudio.com/)
+* Markdwon
+  * [Basic syntax](https://www.markdownguide.org/basic-syntax/)
+  * [Complete list of github markdown emofis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
+  * [Awesome template](http://github.com/Human-Activity-Recognition/blob/main/README.md)
+  * [.gitignore file](https://git-scm.com/docs/gitignore)
 
 ## :bookmark: License
 

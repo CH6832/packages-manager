@@ -17,6 +17,7 @@ Makefile
 compile_commands.json
 
 # Ignore IDE-specific files
+.vs/
 .vscode/
 .idea/
 
