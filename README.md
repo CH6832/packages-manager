@@ -50,10 +50,9 @@ cd packages-manager
 
 ### Usage
 
-2. Run the script `main.cpp` with appropriate commands:
+2. Run the script `main.cpp` with appropriate commands.
 
 ## :books: Resources used to create this project
-
 
 * CPlusPlus
   * [C++ Programming Language](https://devdocs.io/cpp/)
