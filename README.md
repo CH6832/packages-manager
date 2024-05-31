@@ -15,7 +15,8 @@ The Package Management System is a command line tool designed to manage packages
     .
     ├── packages_manager - package manager project
     ├── pkgs_installed/ - folder to store installed packages
-    ├── storage/ - folder to store package archives    
+    ├── storage/ - folder to store package archives
+    ├── tests/ - contains testcases
     ├── vcpkg/ - contains vcpkg package manager
     ├── tests/ - folder to store the installed packages
     ├── .gitignore - ignore files, folders, etc. for version control
